@@ -472,7 +472,7 @@ while it waits for the Containers in the Pod to stop.
 
 <https://kubernetes.io/docs/concepts/workloads/pods/pod-lifecycle/#when-should-you-use-a-readiness-probe>
 
-### **Answer 25: b**
+### **Answer 25: a**
 
 Explanation:
 
